@@ -33,9 +33,8 @@
      
    - **Research Keywords**: 
 <br>
-<br>
 
-### 🧠 Currently Learning
+## 🧠 Currently Learning
 
 **1. Chatbot Development**  
 ![LangChain](https://img.shields.io/badge/LangChain-00BFFF?style=flat&logo=chain&logoColor=white) 
