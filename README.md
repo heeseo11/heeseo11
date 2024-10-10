@@ -26,12 +26,10 @@
      [💻 GitHub Repository](https://github.com/heeseo11/Multi-Agent-Reinforcement-Learning-based-Feature-Selection-Algorithm-for-Class-Imbalance-Problem?tab=readme-ov-file)
 <br>
 
-**3. Title : [추가 논문 제목]**
+**3. Title : Boosting Weak Learners with Multi-Agent Reinforcement Learning for Enhanced Stacking Models: An Application on Driver Emotion Classification**
    - **Journal**: *IEEE transactions on intelligent transportation systems*  
-   - [📄 Paper Link]()  
+   - [📄 Paper Link]()
      [💻 GitHub Repository](https://github.com/heeseo11/Boosting-Weak-Learners-with-Multi-Agent-Reinforcement-Learning-for-Enhanced-Stacking-Model)
-     
-   - **Research Keywords**: 
 <br>
 
 ## 🧠 Currently Learning
