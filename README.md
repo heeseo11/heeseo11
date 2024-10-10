@@ -27,9 +27,9 @@
 <br>
 
 **3. Title : [추가 논문 제목]**
-   - **Journal**: *저널 이름*  
-   - [📄 Paper Link](논문 링크)  
-     [💻 GitHub Repository](깃허브 링크)
+   - **Journal**: *IEEE transactions on intelligent transportation systems*  
+   - [📄 Paper Link]()  
+     [💻 GitHub Repository](https://github.com/heeseo11/Boosting-Weak-Learners-with-Multi-Agent-Reinforcement-Learning-for-Enhanced-Stacking-Model)
      
    - **Research Keywords**: 
 <br>
