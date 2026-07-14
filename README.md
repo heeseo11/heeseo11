@@ -12,25 +12,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 <br>
-<br>
-## 📄 My Research Paper
-**1. Title : Impartial feature selection using multi-agent reinforcement learning for adverse glycemic event prediction**
-   - **Journal**: *Computers in Biology and Medicine*  
-   - [📄 Paper Link](https://www.sciencedirect.com/science/article/pii/S001048252400341X?casa_token=hLZXFbOh23cAAAAA:hcaI-JLB53Bpn26rhG8eHdc-xXn7YHzpkYiVDfgf24gAwUl0faagI2Ty1nY2Cp5ufdLYJsYs_nc)
-     [💻 GitHub Repository](https://github.com/heeseo11/Impartial-Feature-Selection-using-Multi-Agent-Reinforcement-Learning)  
-<br>
-
-**2. Title : Feature selection integrating Shapley values and mutual information in reinforcement learning: An application in the prediction of post-operative outcomes in patients with end-stage renal disease**
-   - **Journal**: *Computer Methods and Programs in Biomedicine*  
-   - [📄 Paper Link](https://www.sciencedirect.com/science/article/pii/S0169260724004097?casa_token=req3wVWAv8cAAAAA:cfDmqnLz5wBjCXvMzP1zktiUbwEKL_RyNnsO1aMMpoP4YD22tDyoZ7IJbnY0QSbP2ZutZZlaUA)
-     [💻 GitHub Repository](https://github.com/heeseo11/Multi-Agent-Reinforcement-Learning-based-Feature-Selection-Algorithm-for-Class-Imbalance-Problem?tab=readme-ov-file)
-<br>
-
-**3. Title : Boosting Weak Learners with Multi-Agent Reinforcement Learning for Enhanced Stacking Models: An Application on Driver Emotion Classification**
-   - **Journal**: *IEEE transactions on intelligent transportation systems*  
-   - [📄 Paper Link]()
-     [💻 GitHub Repository](https://github.com/heeseo11/Boosting-Weak-Learners-with-Multi-Agent-Reinforcement-Learning-for-Enhanced-Stacking-Model)
-<br>
 
 ## 🧠 Currently Learning
 
